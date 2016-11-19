@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   margin: 20px auto;
+   padding: 20px;
+   font-size: 14px;
+}
+table{
+	width: 450px;
+	height: 130px;
+}
+table, tr, td, th{
+	border: 1px solid #C8C6B0;
+	border-collapse: collapse;
+	padding: 5px;
+}
+th{
+	background-color: #50B306;
+	color: #FCFEFB;
+}
+img{
+	width:15px;
+	height:10px;
+}
+tr:nth-child(2n+1){
+    background-color: #ECECD8;
+}

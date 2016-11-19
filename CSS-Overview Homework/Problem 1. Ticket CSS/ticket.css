@@ -1,0 +1,38 @@
+fieldset {
+	background: #595959;
+	border: 0;
+	width: 30%;
+}
+fieldset.in {
+	border: 0;
+	width: 300px;
+}
+legend {
+	font-family: arial;
+	font-weight: bold;
+	color: #cccccc;
+}
+td#firstcol {
+	font-style: oblique;
+	width: 100%;
+	color: white;
+	vertical-align: top;
+}
+td.yellow {
+	color: #ffe066;
+}
+td.gray {
+	color: #e6e6e6;
+	white-space: nowrap;
+}
+td.red {
+	color: red;
+	font-weight: bold;
+	white-space: nowrap;
+}
+td.orange {
+	color: orange;
+}
+th, td {
+	padding: 5px;
+}
